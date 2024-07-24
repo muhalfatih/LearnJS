@@ -1,0 +1,3 @@
+[submodule "ReactJs/Repos/react-complete-guide-course-resources"]
+	path = ReactJs/Repos/react-complete-guide-course-resources
+	url = https://github.com/academind/react-complete-guide-course-resources.git
